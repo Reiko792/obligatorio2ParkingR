@@ -12,10 +12,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author USUARIO
- */
+
 public class VentanaReportes extends javax.swing.JFrame {
 
     /**
